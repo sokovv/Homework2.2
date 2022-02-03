@@ -1,0 +1,25 @@
+{
+  "name": "homework2.2",
+  "version": "1.0.0",
+  "description": "Task2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokovv/Homework2.2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Valeriy Sokolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokovv/Homework2.2/issues"
+  },
+  "homepage": "https://github.com/sokovv/Homework2.2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
